@@ -17,7 +17,7 @@ import static com.codeborne.selenide.files.DownloadActions.click;
 import static junit.framework.TestCase.assertEquals;
 
 
-public class Task1 extends BaseTest{
+public class Task1 {
 
     @Test
     public void task1() {
