@@ -1,0 +1,2 @@
+# README
+selenide tests training
